@@ -42,7 +42,7 @@ Mỗi cử chỉ phải giữ yên khoảng nửa giây mới được tính.
 | `hand.py` | Dùng MediaPipe tìm 21 điểm trên bàn tay và đếm số ngón đang giơ |
 | `game.py` | Luật chơi: đồ rơi, hứng, điểm, mạng, kỹ năng |
 | `test_game.py` | Kiểm tra tự động: `python -m unittest test_game` |
-| `docs/` | Báo cáo, giải thích, hình minh hoạ |
+| `docs/` | Giải thích code, hình minh hoạ |
 
 ## Thư viện
 

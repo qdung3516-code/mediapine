@@ -49,6 +49,4 @@ Mỗi cử chỉ phải giữ yên khoảng nửa giây mới được tính.
 - [MediaPipe Hand Landmarker](https://developers.google.com/edge/mediapipe/solutions/vision/hand_landmarker)
 - OpenCV
 
-## Video demo
 
-Link video demo: _(điền link sau khi quay)_
